@@ -16,3 +16,4 @@ gem 'carrierwave'
 gem "fog-aws"
 gem "mini_magick"
 gem 'devise'
+gem 'sass', '3.2.13'
